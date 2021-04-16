@@ -1,0 +1,13 @@
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\bin\Debug\ModbusIAI-Mind.exe.config
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\bin\Debug\ModbusIAI-Mind.exe
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\bin\Debug\ModbusIAI-Mind.pdb
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.csprojAssemblyReference.cache
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI_Mind.Properties.Resources.resources
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.csproj.GenerateResource.cache
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.csproj.CoreCompileInputs.cache
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.csproj.CopyComplete
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.exe
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI-Mind.pdb
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI_Mind.RTU.resources
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI_Mind.Starter.resources
+C:\Work\ModbusIAI-Mind\ModbusIAI-Mind\obj\Debug\ModbusIAI_Mind.TCP.resources
